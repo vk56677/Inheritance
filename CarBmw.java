@@ -45,13 +45,3 @@ class CarBmw {
         c1.info(); // Colour info
     }
 }
-```
-
----
-
-**GitHub Description~**
-```
-Java OOP ~ Inheritance example using BMW Car 
-system. Demonstrates method overriding with 
-parent class Vehicle and child classes 
-Wheel and Colour.
